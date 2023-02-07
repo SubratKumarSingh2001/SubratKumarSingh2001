@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratkumarsingh2001&label=Profile%20views&color=0e75b6&style=flat" alt="subratkumarsingh2001" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **JavaScript NodeJS MongoDB**
+- 🌱 I’m currently learning **Data Structures and Algorithms + JavaScript **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubratKumarSingh2001](https://github.com/SubratKumarSingh2001)
 

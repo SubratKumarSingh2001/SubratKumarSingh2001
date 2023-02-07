@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SubratKumarSingh2001](https://github.com/SubratKumarSingh2001)
 
-- 💬 Ask me about **HTML CSS DBMS Python C++ And Content Writing**
+- 💬 Ask me about **DSA in C++ HTML CSS DBMS Python **
 
 - 📫 How to reach me **subratsingh2001@gmail.com**
 

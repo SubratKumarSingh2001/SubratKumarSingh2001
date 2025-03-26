@@ -20,7 +20,7 @@
 <a href="https://x.com/SubratSingh2001?t=-hrYFMTbFz0N7vFxrMZPhQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/subratkrsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subrat-kumar-singh-597973207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subrat-kumar-singh-597973207" height="30" width="40" /></a>
 <a href="https://instagram.com/thevagabond_traveller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevagabond_traveller" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/subrat2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subrat2001/" height="30" width="40" /></a>
+<a href="leetcode.com/u/Subrat2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subrat2001/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

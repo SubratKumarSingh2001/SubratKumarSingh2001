@@ -1,4 +1,4 @@
-![cntent writer   web development](https://user-images.githubusercontent.com/92250219/159149651-f01fec93-efbe-444a-9355-ea36f8193030.png)
+![content writer   web development](https://user-images.githubusercontent.com/92250219/159149651-f01fec93-efbe-444a-9355-ea36f8193030.png)
 <h1 align="center">Hi 👋, I'm Subrat Kumar Singh</h1>
 <h3 align="center">Error is not a Barrier</h3>
 

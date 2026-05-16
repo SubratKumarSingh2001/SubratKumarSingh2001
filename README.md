@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 ### MCA'26 USICT | Data Science | Machine Learning, Artificial Intelligence Learner | C++, Python, Java | #LearnInPublic #ImproveDaily #Programming
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubratKumarSingh2001" alt="SubratKumarSingh2001" /></a> </p>
 

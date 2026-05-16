@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](linkedin_banner.png)
 # Hi 👋, I'm Subrat Kumar Singh
 
 ### MCA'26 USICT | Data Science | Machine Learning, Artificial Intelligence Learner | C++, Python, Java | #LearnInPublic #ImproveDaily #Programming
